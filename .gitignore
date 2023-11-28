@@ -1,0 +1,4 @@
+#ignore the main.c file
+main
+main.c
+.vscode
